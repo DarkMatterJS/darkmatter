@@ -10,7 +10,7 @@ DarkMatter isn’t the final product, nor is it a sellable product to clients. H
 DarkMatterUI also isn’t a UI-framework that you can just use without thinking about design. We didn’t want to build just another UI library that just looks like everyone else (like Foundation,  Bootstrap, Material Design… you get the point). However, if you aren’t a designer, that’s ok - we’ve created many preconfigured themes for you, that are still customizable. 
 
 ## Need to Know
-NodeJS, Babel, Docker, Nginx, ReactJS, ReactNative,  and maybe Sketch.
+NodeJS, Babel, Docker, Nginx, ReactJS, ReactNative, and maybe Sketch.
 
 
 ## What’s Included?
@@ -38,7 +38,6 @@ Create your own customizable and easy to configure ReactJS web dashboard applica
 ### DarkMatter ReactNative iOS Android App
 Quick start your app development app, by using the DarkMatter preconfigured react-native app, that utilizes DarkMatter UI and the DarkMatter API.
 
-------
 
 ## DarkMatter Sketch Designs
 A collection of Sketch files to help kick start your designs for all platforms including: 
@@ -48,7 +47,6 @@ A collection of Sketch files to help kick start your designs for all platforms i
 - Android mobile app
 - Native Desktop App
 
-------
 
 ## DarkMatter Micro-Service Architecture API
 Docker based micro-service architecture that hosts your marketing website, your dashboard web app, and your API that supports your web and mobile applications. 
@@ -69,17 +67,15 @@ Out of the box it’s configured to include:
 - DarkMatter API Layer - For route requests to services and authenticating users
 
 
-------
 
 ## DarkMatter ReactJS Marketing Website
 An independent static ReactJS website with a decoupled frontend. Constructed using Babel/NodeJS.
 
-------
+
 
 ## DarkMatter ReactJS Web Dashboard App
 An independent static frontend built using DarkMatter UI components, that allow for quick modular configuration, and robust customization capabilities. Kick start using a theme, or modify theme to fit your brand. Include any ReactJS component, or select from many of the add-ons.
 
-------
 
 ## DarkMatter ReactNative iOS and Android App
 Create a React Native iOS and/or Android application with ease. The DarkMatter ReactNative app automatically configures to use the DarkMatter API. Then customize with DarkMatter add-ons, such as User Authentication, Profile, News Feed, Chat
